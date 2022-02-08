@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<a href="https://dreamwave.org/"> src="https://i.imgur.com/yRhTJxG.png" alt="Markdownify" width="200"></a>
+<a href="https://dreamwave.org/"> src="https://i.imgur.com/yRhTJxG.png" width="200"></a>
 <br>
 DreamWave™
 <br>
